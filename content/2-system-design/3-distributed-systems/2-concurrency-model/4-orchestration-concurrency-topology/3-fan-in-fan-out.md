@@ -1,3 +1,0 @@
-
-[[fan-out-fan-in]]
-

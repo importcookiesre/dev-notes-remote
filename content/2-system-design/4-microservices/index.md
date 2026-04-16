@@ -1,9 +1,0 @@
-
-
-
-
-
-# TODO : 
-
-- [ ] api gateway
-- [ ] 

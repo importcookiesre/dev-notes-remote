@@ -1,7 +1,0 @@
-- The actual **data (file)** stored in S3. 
-- An object is a file + metadata.
-- Every object has:
-    - **Key** (file name or path-like identifier)
-    - **Value** (the data)
-    - **Metadata** (optional)
-    - **Version ID** (if versioning enabled)
