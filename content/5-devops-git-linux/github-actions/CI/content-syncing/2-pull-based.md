@@ -1,10 +1,11 @@
 ---
-title: System The Push Based Model
+title: The Pull Based Model
 description:
 draft: false
 tags:
-  - distributed-systems
-  - backend
+  - Ci-CD
+  - github-actions
+  - shell-scripting
 modified: 2026-04-16
 created: 2026-04-16
 ---
