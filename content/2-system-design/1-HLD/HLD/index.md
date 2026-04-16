@@ -1,0 +1,4 @@
+
+
+
+## vertical vs horizontal scaling
