@@ -4,8 +4,8 @@ description:
 draft: false
 tags:
   - Ci-CD
+  - devops
   - github-actions
-  - shell-scripting
 modified: 2026-04-16
 created: 2026-04-16
 ---
