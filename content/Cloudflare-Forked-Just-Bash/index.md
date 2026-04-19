@@ -3,8 +3,8 @@ title: Cloudflare Forked Just-Bash
 description: Cloudflare recently forked just-bash (an open-source project from Vercel Labs designed for safe, sandboxed bash-like execution in AI agents) and published their version as @cloudflare/shell. What started as a simple fork turned into a weekend Twitter storm about open-source etiquette, security, and big-tech rivalries.
 draft: false
 tags:
-modified: 2026-04-16
-created: 2026-04-16
+modified: 2026-03-16
+created: 2026-03-16
 ---
 
 # G’day everyone – AbhikrX here
@@ -83,7 +83,6 @@ Open source works best when we share, but also when we have a quick chat first. 
 
 Is forking always fair go under permissive licences, or should there be stronger unwritten rules for security-sensitive libs?
 
-Chuck a comment below – keen to hear your thoughts.
 
 ---
 
