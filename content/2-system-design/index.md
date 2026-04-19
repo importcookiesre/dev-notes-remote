@@ -10,7 +10,7 @@ Normal thinking:
 First-principles thinking:
 
 - What is the core problem? → **Limit how many requests happen in a time window.**
-- What do I fundamentally need?
+- What do I fundamentally need?ss
     - A **counter**
     - A **time window**
     - A **way to reject requests when the limit is exceeded**
