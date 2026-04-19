@@ -1,6 +1,6 @@
 ---
 title: Axios NPM Package Compromised 
-description: In late March 2026, the popular JavaScript HTTP client Axios with over 100 million weekly downloads was compromised in a sophisticated supply chain attack. Malicious versions were published after the maintainer account was hijacked, installing a remote access trojan via a hidden postinstall script. The incident highlights critical risks in npm supply chains and the need for stronger security practices.
+description: 
 draft: false
 tags:
 modified: 2026-03-31
