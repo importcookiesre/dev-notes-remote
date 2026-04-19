@@ -10,3 +10,7 @@ created: 2026-04-16
 ## Welcome
 
 Welcome to my remote obsidian vault
+
+## All blogs
+
+- [[Cloudflare-Forked-Just-Bash]]
