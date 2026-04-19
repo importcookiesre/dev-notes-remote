@@ -13,4 +13,4 @@ Welcome to my remote obsidian vault
 
 ## All blogs
 
-- [[Cloudflare-Forked-Just-Bash]]
+ [[Cloudflare-Forked-Just-Bash]]
